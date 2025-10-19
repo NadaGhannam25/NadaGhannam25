@@ -3,8 +3,7 @@
 </div>
 
 ---
-
-<img src="Profile.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">Nada Al-Mutairi</span>
+<img src="Profile.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">About Me</span>
 --- 
 <p>
 I am a dedicated <strong>Information Systems student</strong> with a strong passion for <strong>UI/UX design</strong>, <strong>cybersecurity</strong>, and <strong>data analysis</strong>. Skilled in creating user-centered designs, developing intuitive interfaces, and understanding the importance of securing digital environments. I constantly explore new technologies and best practices to enhance both user experience and system security while diving into the world of data analysis.
