@@ -3,9 +3,6 @@
 </div>
 
 ---
-<p align="left">
-  <img src="Stars.gif" width="50" height="50" />
-</p>
 
 <img src="Profile.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">   <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">Nada Al-Mutairi</span>
 --- 
@@ -88,10 +85,6 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
   I enjoy exploring different programming languages and tools to build intuitive interfaces, automate tasks, and analyze data efficiently. Always learning and experimenting with new technologies to improve my skills.
 </p>
 
-<p align="left">
-  <img src="Stars.gif" width="50" height="50" />
-</p>
-
 
 <p align="center"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -126,9 +119,6 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
   <li>Business Administration</li>
   <li>Data Analysis</li>
 </ul>
-<p align="right">
-  <img src="Stars.gif" width="50" height="50" />
-</p>
 
 ---
 <p align="center">
@@ -136,10 +126,10 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
 </p>
 
 <p align="center">
-  <img src="2.png" width="150" height="150" alt="Company 1" />
-  <img src="3.png" width="150" height="150" alt="Company 2" />
-  <img src="4.png" width="150" height="150" alt="Company 3" />
-  <img src="5.png" width="150" height="150" alt="Company 4" />
+  <img src="2.jpeg" width="200" height="200" alt="Company 1" />
+  <img src="3.png" width="200" height="200" alt="Company 2" />
+  <img src="4.png" width="200" height="200" alt="Company 3" />
+  <img src="5.png" width="200" height="200" alt="Company 4" />
 </p>
 
 ---
