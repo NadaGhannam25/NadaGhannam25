@@ -3,7 +3,7 @@
 </div>
 
 ---
-<img src="Profile.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">About Me</span>
+<img src="profile.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 90px; font-weight: bold; vertical-align: middle;">About Me</span>
 --- 
 <p>
 I am a dedicated <strong>Information Systems student</strong> with a strong passion for <strong>UI/UX design</strong>, <strong>cybersecurity</strong>, and <strong>data analysis</strong>. Skilled in creating user-centered designs, developing intuitive interfaces, and understanding the importance of securing digital environments. I constantly explore new technologies and best practices to enhance both user experience and system security while diving into the world of data analysis.
@@ -49,7 +49,7 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
 
 
 
-<img src="Project.png" width="30" height="30" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 60px; font-weight: bold; vertical-align: middle;">Projects</span>
+<img src="project.png" width="25" height="25" style="vertical-align: middle; margin-right: 10px;"> <span style="font-size: 60px; font-weight: bold; vertical-align: middle;">Projects</span>
 ---
 <p>
   <img src="Point.png" width="10" height="10" style="vertical-align: middle; margin-right: 20px;">
@@ -121,8 +121,9 @@ I am a dedicated <strong>Information Systems student</strong> with a strong pass
 
 ---
 <p align="center">
-  Proudly collaborating with these amazing companies and enjoying every moment of our journey together!
+Proudly collaborating with these amazing companies and enjoying every moment of our journey together!
 </p>
+
 
 <p align="center">
   <img src="2.jpeg" width="200" height="200" alt="Company 1" />
